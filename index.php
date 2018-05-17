@@ -62,7 +62,7 @@ register.</p>
 //earlier from the Azure Portal. $host = "value of Data Source";
 
 $host = "idrulak-mysqldbserver.mysql.database.azure.com";
-$user = "idrulak@idrulak-mysqldbserver";
+$user = "idrulak";
 $pwd = "nogomet1";
 $db = "idrulak";
 // Connect to database.
