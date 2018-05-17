@@ -63,7 +63,7 @@ register.</p>
 
 $host = "idrulak-mysqldbserver.mysql.database.azure.com";
 $user = "idrulak@idrulak-mysqldbserver";
-$pwd = "nogomet1";
+$pwd = "Nogomet1";
 $db = "idrulak";
 // Connect to database.
 $conn = mysqli_connect($host, $user, $pwd, $db);
