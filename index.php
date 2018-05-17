@@ -61,8 +61,8 @@ register.</p>
 // TODO: Update the values for $host, $user, $pwd, and $db //using the values you retrieved
 //earlier from the Azure Portal. $host = "value of Data Source";
 
-$host = "idrulak-mysqldbserver";
-$user = "idrulak";
+$host = "idrulak-mysqldbserver.mysql.database.azure.com";
+$user = "idrulak@idrulak-mysqldbserver";
 $pwd = "nogomet1";
 $db = "idrulak";
 // Connect to database.
